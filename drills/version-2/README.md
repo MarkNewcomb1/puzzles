@@ -18,8 +18,21 @@ There is a row of five different color houses. Each house is occupied by a perso
 * The Norwegian lives next to the Blue house.
 * The person who smokes Blends has a neighbour who drinks water.
 
-Who has fish at home?
+
 
 ---
 
 Submit a link to a document showing your structured approach to solving this problem.
+
+## Solution
+
+I start by drawing the houses with their colors. 
+
+-- Norwegian--  -- Blue --  -- Red, Brit --  -- Swede, dogs --  -- Dane, tea -- -- Yellow, Dunhill --  -- Green, Coffee --  -- White --
+
+The German smokes Prince, and the person who keeps horses lives next to the person who smokes Dunhill. The person who smokes Dunhill lives in the yellow house. Well, the Dane lives next to the yellow house, so he must smoke Blends and keeps horses, and drinks tea.
+
+
+Eventually, through a lot of whiteboard drawing and erasing, the different clues from the different pieces of information lead to the German having the fish, as the German was the only one left that didn't have a pet after the other clues fell into place. 
+
+Who has fish at home? The German.
